@@ -1,0 +1,16 @@
+metric,value
+model,yolo11s-seg.pt
+best_weights,/arc/project/st-sielmann-1/weed_seg/runs/segment/runs/segment/phenobench_yolo11s-2/weights/best.pt
+seg_map50_val,0.7081755136828726
+seg_map50_test,0.7485372246187589
+seg_map_test,0.47869968154608583
+weed_recall_test,0.6274949540255663
+crop_recall_test,0.859504132231405
+hit_rate_mask_pct,78.45134997452878
+hit_rate_nozzle_pct,63.881813550687724
+crop_damage_rate_pct,5.121951219512195
+false_spray_rate_pct,23.320825515947465
+latency_median_ms,52.05100800958462
+latency_p95_ms,52.85980232001748
+conf_threshold,0.25
+iou_threshold,0.45

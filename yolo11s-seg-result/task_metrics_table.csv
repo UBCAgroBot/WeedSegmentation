@@ -1,0 +1,16 @@
+Metric,Value
+Hit rate — predicted point inside GT mask,78.5 %
+Hit rate — within 10 px of GT spray point,63.9 %
+Center error — mean,6.6 px
+Center error — median,3.6 px
+Center error — P90,15.6 px
+Crop-damage rate,5.1 %
+False-spray rate,23.3 %
+Pixel IoU — crop,0.9314
+Pixel IoU — weed,0.7083
+Pixel Dice — crop,0.9645
+Pixel Dice — weed,0.8292
+Weed recall by size — Recall <100 px,52.7 %
+Weed recall by size — Recall 100-500 px,82.7 %
+Weed recall by size — Recall 500-2000 px,86.5 %
+Weed recall by size — Recall >2000 px,92.9 %
